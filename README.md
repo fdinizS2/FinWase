@@ -1,1 +1,1 @@
-# FinWase
+# FinWise
